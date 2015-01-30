@@ -9478,3 +9478,6 @@ hr.large {
   line-height: 10pt;
   padding: 7px;
 }
+.foobar {
+  text-align: center;
+}
